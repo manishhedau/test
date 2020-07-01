@@ -1,0 +1,10 @@
+this is my new file
+Manish hedau is an bca third year student now
+
+for see the differance in the local file using diff command
+
+you are the bca student right or wrong?
+
+
+I am Manish Hedau .
+I am Yogesh Hedau .

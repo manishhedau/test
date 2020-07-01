@@ -1,0 +1,43 @@
+file Icon
+python-autopep8
+linter-flake8	
+
+please just find out the how actually fit function is working and also figure it out that
+how we can implement the fit function using python or r and c/c++
+That's It
+
+ls
+cd
+git init
+git remote add origin [gitLink]
+git remote -v
+git add .
+git commit -m "First commit"
+git push origin master 
+
+
+pythonccNN@6162
+import csv
+5 common mistake ----> corey schafer 
+
+platformio-ide-terminal
+
+
+https://us02web.zoom.us/j/85796397775
+
+conda create -n project_folder_name python_version
+
+active env_name
+
+To see the env----> conda env list
+
+To see the how much module we had installed ---> conda list
+
+To installed some package in the new env so just ---> pip install package_name
+
+To remove the env from the system -----> conda env remove -n env_name
+it will just remove the env from the your system 
+
+
+GetPost@Request6261
+

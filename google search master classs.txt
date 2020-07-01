@@ -1,0 +1,190 @@
+Google Search Master Class
+----------------------------------
+1. "" Quotation Mark
+
+If when we search in google but we didn't found releted to our topic 
+then try to search your topic or subject inside Double quotation
+
+Ex - "social engineering in school"
+
+2. File Type
+
+if we want to see any perticular file with it's extesion 
+then try this
+
+Ex- origin ml data science:pdf,docs,ppt,.....etc any file type
+
+3. Related
+
+if you want to find out some related topic or subject over the internet 
+then try this
+
+Ex - releted:library.com
+
+4. Site
+
+if we want to look up any educational or goverment ..etc so we have to give
+it's domain name of the website try this
+
+Ex- green tea site:edu
+    Machine Learning site:gov (it we give the website all goverment site related to Machine Learning)
+    Popular Books site:com (it will return you all the books related websites which contain ".com"
+
+5. Intext/allintext
+
+if we want to search subject or object or topics inside text using keywords
+so try this 
+
+Ex- intext:text ----> intext:polymorphism
+    intext:kaligrapy
+     
+    if we wnat to find out exact text inside a webpage
+    allintext:text----> allintext:docker
+    allintext:jarkin
+
+difference Quotation/intext
+---------------------------------
+the only difference between quotation marks and intext is that 
+the quotation search all the text inside webpage but 
+intext only search word by  word inside webpage or text or paragraph
+
+6. Intitle/allintext
+
+It's will figure out the text inside a title of any webpage
+so that try this
+
+Ex- intitle:text-------> intitle:python
+ and if want to search exact same words inside title then we can also  use 
+Ex- allintext:text-----> allintext:SEO uses
+
+7. Inurl/allinurl
+
+When you want to search words inside url than try this
+
+Ex- inurl:text -------> inurl:machine learning
+ and allinurl is used to find the exact words inside url
+Ex- allinurl:text ------> allinurl:toword data science
+
+8. Source
+
+When you want find out some news about some releted topics
+like machine learning in real life case senario so then try this
+
+Ex- topic source:releted text-------> machine learning source:real life 
+
+9. OR
+ 
+When you have to search two things in a same time then use or
+
+Ex- subject1 OR subject2 -------> dog OR lions
+
+10. AND
+
+when you want to search two in the same website the use AND
+
+Ex- subject1 AND subject2 -------> Python AND Machine Learning
+
+11. $ (doller)
+
+when you want find out the price of things in between certain range
+
+Ex- subject $range of price -----> python book $100-$200
+                            -----> Machine Learning Books $200
+
+12. ()
+
+when you want search about two thing orsubject in a certain ways or field and place 
+
+Ex- when you want to search for phone and laptop of the samsung company		
+
+	>-------(phone OR laptops)samsung
+
+
+13. -(Hyphen)
+
+when you don't want to search any subject in all site but not in another perticular site then 
+try this
+ 
+Ex - War -wikipidia
+
+14. *(Asterisk)
+
+when you want to match or figure out about any subject then try this
+
+Ex- subject(matching word) * company -----> steve * apple
+
+15. Cache
+
+when you want to search about any perticular sanpshot then 
+try this 
+
+Ex- cache:website name.domainname ------> cache:amazon.com
+
+16. Define
+
+when you want to search the defination of any subject 
+then try this
+
+Ex- define:subject ---- define:science
+
+17. To/in
+
+if you want to convert any continuoes value into different things \
+then try this
+
+Ex-  meter in feet
+     kilogram to pound .... like that 
+
+18. Stock
+
+if you want to know the stock information certain company 
+then try this
+
+ Ex- stock:company name -----> stock:apple
+
+19. Map
+
+if you want to google to only certain location you searching of any perticular area
+then try this
+
+Ex- map:loaction name or area name -------> map:silicon velly
+
+20. Movie
+
+ if you want to know about certain movie or it's show time and then you all the sites 
+releted to that perticular movie are shown on your desktop 
+then try this 
+
+Ex-  movie:movie name -----> movie:war
+
+21. Loc
+
+find the giving area or reasons about any company 
+
+Ex- loc:"topic"releted subject
+
+22. Location
+
+if you want to know about the certain location and it's address
+
+Ex- location:place -----> location:bigmarket in nagpur
+
+23. Google products
+
+1. google books
+ you can give you the google books product information with it's only google sites
+
+2. google images
+ you can only search for image
+
+3. google scholar
+ if you are interset in some research by the google and aricles on any perticular topics 
+it might be helpful for a any researcher or professor and students for their knowledge
+
+
+ 
+
+
+
+
+  
